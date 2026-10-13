@@ -1,0 +1,7 @@
+target/
+project/target/
+checkpoint/
+.bsp/
+.metals/
+.idea/
+*.class
